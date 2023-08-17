@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Card (props) {
+function Card(props) {
     return (
         <div>
             <h3>¡Hola {props.nombre}!</h3>

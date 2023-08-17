@@ -5,7 +5,7 @@
   text-align: center;
 }
 
-.button{
+.button {
   margin-top: 10px;
   background-color: #007bff;
   color: #fff;
@@ -15,7 +15,7 @@
   cursor: pointer;
 }
 
-.container{
+.container {
   max-width: 300px;
   margin: 0 auto;
   padding: 20px;
@@ -30,7 +30,7 @@
   border-radius: 4px;
 }
 
-.error{
+.error {
   color: red;
   padding: 10px;
 }
